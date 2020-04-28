@@ -46,13 +46,13 @@
 		<key>Alpha Component</key>
 		<real>1</real>
 		<key>Blue Component</key>
-		<real>0.61633026599884033</real>
+		<real>0.21960784494876862</real>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Green Component</key>
-		<real>0.9747205376625061</real>
+		<real>0.94117647409439087</real>
 		<key>Red Component</key>
-		<real>0.95514363050460815</real>
+		<real>0.72156864404678345</real>
 	</dict>
 	<key>Ansi 12 Color</key>
 	<dict>
@@ -72,13 +72,13 @@
 		<key>Alpha Component</key>
 		<real>1</real>
 		<key>Blue Component</key>
-		<real>0.93333333730697632</real>
+		<real>0.72156864404678345</real>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Green Component</key>
-		<real>0.68235296010971069</real>
+		<real>0.21960784494876862</real>
 		<key>Red Component</key>
-		<real>0.98039215803146362</real>
+		<real>0.94117647409439087</real>
 	</dict>
 	<key>Ansi 14 Color</key>
 	<dict>
@@ -124,39 +124,39 @@
 		<key>Alpha Component</key>
 		<real>1</real>
 		<key>Blue Component</key>
-		<real>0.5215686559677124</real>
+		<real>0.21960784494876862</real>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Green Component</key>
-		<real>0.96078431606292725</real>
+		<real>0.72156864404678345</real>
 		<key>Red Component</key>
-		<real>1</real>
+		<real>0.94117647409439087</real>
 	</dict>
 	<key>Ansi 4 Color</key>
 	<dict>
 		<key>Alpha Component</key>
 		<real>1</real>
 		<key>Blue Component</key>
-		<real>0.0143280029296875</real>
+		<real>0.94117647409439087</real>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Green Component</key>
-		<real>0.66162645816802979</real>
+		<real>0.72156864404678345</real>
 		<key>Red Component</key>
-		<real>1</real>
+		<real>0.21960784494876862</real>
 	</dict>
 	<key>Ansi 5 Color</key>
 	<dict>
 		<key>Alpha Component</key>
 		<real>1</real>
 		<key>Blue Component</key>
-		<real>0.86666667461395264</real>
+		<real>0.94117647409439087</real>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Green Component</key>
-		<real>0.60000002384185791</real>
+		<real>0.21960784494876862</real>
 		<key>Red Component</key>
-		<real>1</real>
+		<real>0.72156864404678345</real>
 	</dict>
 	<key>Ansi 6 Color</key>
 	<dict>
@@ -189,13 +189,13 @@
 		<key>Alpha Component</key>
 		<real>1</real>
 		<key>Blue Component</key>
-		<real>0.24108317494392395</real>
+		<real>0.98039215803146362</real>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Green Component</key>
-		<real>0.24108317494392395</real>
+		<real>0.65882354974746704</real>
 		<key>Red Component</key>
-		<real>0.243408203125</real>
+		<real>0.78823530673980713</real>
 	</dict>
 	<key>Ansi 9 Color</key>
 	<dict>
@@ -215,13 +215,13 @@
 		<key>Alpha Component</key>
 		<real>1</real>
 		<key>Blue Component</key>
-		<real>0.269195556640625</real>
+		<real>0.26666668057441711</real>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Green Component</key>
-		<real>0.1697506457567215</real>
+		<real>0.21176470816135406</real>
 		<key>Red Component</key>
-		<real>0.1531764417886734</real>
+		<real>0.20000000298023224</real>
 	</dict>
 	<key>Badge Color</key>
 	<dict>
@@ -306,13 +306,13 @@
 		<key>Alpha Component</key>
 		<real>1</real>
 		<key>Blue Component</key>
-		<real>0.86666667461395264</real>
+		<real>0.94117647409439087</real>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Green Component</key>
-		<real>0.60000002384185791</real>
+		<real>0.21960784494876862</real>
 		<key>Red Component</key>
-		<real>1</real>
+		<real>0.72156864404678345</real>
 	</dict>
 	<key>Selected Text Color</key>
 	<dict>
@@ -339,19 +339,6 @@
 		<real>0.35205566883087158</real>
 		<key>Red Component</key>
 		<real>0.3362850546836853</real>
-	</dict>
-	<key>Underline Color</key>
-	<dict>
-		<key>Alpha Component</key>
-		<real>1</real>
-		<key>Blue Component</key>
-		<real>0.6526947021484375</real>
-		<key>Color Space</key>
-		<string>sRGB</string>
-		<key>Green Component</key>
-		<real>0.94271284341812134</real>
-		<key>Red Component</key>
-		<real>1</real>
 	</dict>
 </dict>
 </plist>
